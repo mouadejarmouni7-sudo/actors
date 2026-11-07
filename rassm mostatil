@@ -1,0 +1,7 @@
+print("rassm dila wahd mostatil by python")
+L =int(input("entree Line"))
+C =int(input("entree Colonne"))
+for i in range(L) :
+    for j in range(C) :
+        print("X",end="")
+    print("")
